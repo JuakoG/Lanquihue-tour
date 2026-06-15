@@ -1,0 +1,6 @@
+
+Frutillar;15000;20;Carlos Soto
+Puerto Varas;20000;15;María González
+Calbuco;12000;30;Juan Pérez
+Llanquihue;18000;10;Ana Torres
+Osorno;25000;25;Pedro Díaz
